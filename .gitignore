@@ -210,3 +210,4 @@ kaggle.json
 *.csv
 
 *.bin
+data/
