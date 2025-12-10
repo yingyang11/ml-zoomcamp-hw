@@ -211,3 +211,6 @@ kaggle.json
 
 *.bin
 data/
+
+*onnx*
+*.jpeg
